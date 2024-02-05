@@ -21,3 +21,6 @@ def do_some_math():
     sum = 1 + 2 + 3
 
 do_some_math()
+
+def calc_difference(a, b):
+    return a - b
